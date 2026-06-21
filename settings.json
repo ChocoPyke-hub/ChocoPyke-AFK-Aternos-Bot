@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ChocoPyke.aternos.me",
-    "port": 52198,
+    "ip": "thudanhda.aternos.me",
+    "port": 51794,
     "version": "",
     "try-creative": false
   },
@@ -68,8 +68,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
